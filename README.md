@@ -85,6 +85,9 @@ A **Funções Adicionais RT** é uma **ferramenta de transição e automação f
 
 ---
 ## 👨‍💻Fluxo da Implementação
+**Lazarus**
+<img width="713" height="736" alt="image" src="https://github.com/user-attachments/assets/f78aaef6-ff89-4fec-a4d4-387cd3e4d8f7" />
+**Delphi**
 <img width="805" height="820" alt="image" src="https://github.com/user-attachments/assets/2bf7908f-7e54-4808-896f-15dde2bfa7c3" />
 
 ## 🔧 Exemplo de Implementação com Reforma Tributária
