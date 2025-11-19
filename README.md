@@ -2,7 +2,7 @@
 
 > 🚀 **Simplifique. Adapte. Atualize-se.**  
 > O Brasil mudou — e o seu sistema precisa acompanhar.  
-> Conheça a classe **Funções Adicionais RT**, a solução prática e auxiliar para desenvolvedores Delphi se adequarem à **Reforma Tributária** com alta performance.
+> Conheça a classe **Funções Adicionais RT**, a solução prática e auxiliar para desenvolvedores  pascal (Lazarus/Delphi) se adequarem à **Reforma Tributária** com alta performance.
 
 ---
 
