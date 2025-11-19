@@ -171,7 +171,7 @@ end;
 
 ## 👨‍💻 Para quem é
 
-- Desenvolvedores **Delphi**
+- Desenvolvedores **pascal (Lazarus/Delphi)**
 - Empresas de software **fiscal e contábil**
 - Analistas tributários e **consultores fiscais**
 - Projetos que exigem adequação a **CBS/IBS**
@@ -211,7 +211,7 @@ Seu conteúdo é disponibilizado apenas para **demonstração técnica e marketi
 ### ⭐ Apoie o projeto
 Se este projeto lhe inspirou ou ajudou:
 - Dê uma ⭐ aqui no GitHub  
-- Compartilhe com outros desenvolvedores Delphi  
+- Compartilhe com outros desenvolvedores pascal (Lazarus/Delphi)  
 - Acompanhe as atualizações no portal oficial  
 
 > 🧠 *Reforma Tributária não é apenas sobre impostos — é sobre preparar o seu sistema para o futuro.*
