@@ -9,6 +9,8 @@
 ![License: Proprietary](https://img.shields.io/badge/license-Proprietary-red.svg)
 ![Status](https://img.shields.io/badge/status-Active-success.svg)
 ![Delphi](https://img.shields.io/badge/Delphi-Compatible-blue.svg)
+![Lazarus](https://img.shields.io/badge/Lazarus-Compatible-orange.svg)
+
 
 
 ---
