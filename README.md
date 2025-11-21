@@ -1,4 +1,4 @@
-# 💼 Reforma Tributária — Classe Pascal (Delphi)
+# 💼 Reforma Tributária — Classe Pascal (Delphi/Lazarus)
 
 > 🚀 **Simplifique. Adapte. Atualize-se.**  
 > O Brasil mudou — e o seu sistema precisa acompanhar.  
